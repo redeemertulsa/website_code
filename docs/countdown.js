@@ -1,4 +1,4 @@
-CountDownTimer('July 19, 2020 09:30 AM', 'countdown');
+CountDownTimer('July 26, 2020 09:30 AM', 'countdown');
 
     function CountDownTimer(dt, id)
 {
