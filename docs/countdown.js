@@ -16,7 +16,7 @@ CountDownTimer('July 19, 2020 09:30 AM', 'countdown');
         if (distance < 0) {
 
           clearInterval(timer);
-          document.getElementById(id).innerHTML = '<div id="ButtonContainer" style="width: 25%; align: center;"><a href="https://live.redeemertulsa.org" target="_blank" style="text-decoration: none;"><div style="padding: 5px; margin: 5px; background-color: #B24736; color: #fff; border: 0px solid #888; border-radius: 5px; text-align: center;">Join Us Live Now!</div></a></div>';
+          document.getElementById(id).innerHTML = '<div id="ButtonContainer" style="width: 25%; justify-content: center;"><a href="https://live.redeemertulsa.org" target="_blank" style="text-decoration: none;"><div style="padding: 5px; margin: 5px; background-color: #B24736; color: #fff; border: 0px solid #888; border-radius: 5px; text-align: center;">Join Us Live Now!</div></a></div>';
 
             return;
         }
